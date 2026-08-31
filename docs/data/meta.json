@@ -1,0 +1,3645 @@
+{
+  "generatedAt": "2026-08-31T14:52:56.945Z",
+  "bbox": [
+    23.860295,
+    49.771929,
+    24.163461,
+    49.975386
+  ],
+  "badgeBands": [
+    [
+      13,
+      13.6
+    ],
+    [
+      13.6,
+      14.4
+    ],
+    [
+      14.4,
+      15.5
+    ],
+    [
+      15.5,
+      16.8
+    ],
+    [
+      16.8,
+      22
+    ]
+  ],
+  "modes": [
+    {
+      "mode": "bus",
+      "label": "buses & trolleybuses",
+      "color": "#0059a9"
+    },
+    {
+      "mode": "tram",
+      "label": "trams",
+      "color": "#d6212b"
+    }
+  ],
+  "lines": [
+    {
+      "line": "А01",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Площа Галицька (10)",
+          "variants": 1,
+          "tripCount": 112,
+          "stops": 21,
+          "lengthKm": 10.6,
+          "stats": {
+            "observations": 379,
+            "matched": 379,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.4035690573882624,
+            "roundaboutSegs": 24,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Дубляни. Школа (1313)",
+          "variants": 1,
+          "tripCount": 117,
+          "stops": 22,
+          "lengthKm": 11.49,
+          "stats": {
+            "observations": 427,
+            "matched": 427,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.2101999632814686,
+            "roundaboutSegs": 15,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "1"
+    },
+    {
+      "line": "А03",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Площа Різні (62)",
+          "variants": 1,
+          "tripCount": 136,
+          "stops": 17,
+          "lengthKm": 9.75,
+          "stats": {
+            "observations": 288,
+            "matched": 288,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.2452875912119439,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "ТРЦ Кінг Кросс (320)",
+          "variants": 1,
+          "tripCount": 127,
+          "stops": 18,
+          "lengthKm": 9.09,
+          "stats": {
+            "observations": 277,
+            "matched": 277,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1891307735443988,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "3"
+    },
+    {
+      "line": "А05",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Винники, Забава (1001)",
+          "variants": 1,
+          "tripCount": 62,
+          "stops": 21,
+          "lengthKm": 12.84,
+          "stats": {
+            "observations": 613,
+            "matched": 613,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.7562695743001734,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Площа Різні (62)",
+          "variants": 1,
+          "tripCount": 62,
+          "stops": 23,
+          "lengthKm": 13.64,
+          "stats": {
+            "observations": 636,
+            "matched": 636,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.6905783405638186,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "5"
+    },
+    {
+      "line": "А06",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Площа Галицька (10)",
+          "variants": 1,
+          "tripCount": 112,
+          "stops": 20,
+          "lengthKm": 9.8,
+          "stats": {
+            "observations": 362,
+            "matched": 362,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.2554042180577196,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Рясне-2 (655)",
+          "variants": 1,
+          "tripCount": 112,
+          "stops": 20,
+          "lengthKm": 10.44,
+          "stats": {
+            "observations": 438,
+            "matched": 438,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.2638104689820957,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "6"
+    },
+    {
+      "line": "А07",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Гориня (418)",
+          "variants": 1,
+          "tripCount": 5,
+          "stops": 45,
+          "lengthKm": 19.66,
+          "stats": {
+            "observations": 699,
+            "matched": 699,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.5968579092809022,
+            "roundaboutSegs": 53,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Чигиринська (575)",
+          "variants": 3,
+          "tripCount": 4,
+          "stops": 45,
+          "lengthKm": 21.49,
+          "stats": {
+            "observations": 776,
+            "matched": 776,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.5378948495673062,
+            "roundaboutSegs": 38,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "7"
+    },
+    {
+      "line": "А08а",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Брюховичі, Кардіологічна лікарня (1056)",
+          "variants": 2,
+          "tripCount": 45,
+          "stops": 21,
+          "lengthKm": 11.7,
+          "stats": {
+            "observations": 483,
+            "matched": 483,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.6260343195675082,
+            "roundaboutSegs": 12,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Зернова (26)",
+          "variants": 2,
+          "tripCount": 45,
+          "stops": 23,
+          "lengthKm": 11.82,
+          "stats": {
+            "observations": 477,
+            "matched": 477,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.7097152481708343,
+            "roundaboutSegs": 12,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "8а"
+    },
+    {
+      "line": "А09",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Сороки-Львівські, Кільцева дорога (1462)",
+          "variants": 1,
+          "tripCount": 167,
+          "stops": 47,
+          "lengthKm": 22.93,
+          "stats": {
+            "observations": 895,
+            "matched": 895,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.4927169968964822,
+            "roundaboutSegs": 29,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Автовокзал (433)",
+          "variants": 1,
+          "tripCount": 169,
+          "stops": 44,
+          "lengthKm": 21.89,
+          "stats": {
+            "observations": 854,
+            "matched": 854,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.5979058526791816,
+            "roundaboutSegs": 74,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "9"
+    },
+    {
+      "line": "А10",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Залізничний вокзал (191)",
+          "variants": 1,
+          "tripCount": 77,
+          "stops": 21,
+          "lengthKm": 11.32,
+          "stats": {
+            "observations": 329,
+            "matched": 329,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.4139449791620404,
+            "roundaboutSegs": 37,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "ТРЦ Кінг Кросс (320)",
+          "variants": 1,
+          "tripCount": 75,
+          "stops": 25,
+          "lengthKm": 11.59,
+          "stats": {
+            "observations": 359,
+            "matched": 359,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1981665251670992,
+            "roundaboutSegs": 39,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "10"
+    },
+    {
+      "line": "А11",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Рясне-2 (655)",
+          "variants": 1,
+          "tripCount": 105,
+          "stops": 41,
+          "lengthKm": 22.71,
+          "stats": {
+            "observations": 797,
+            "matched": 797,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.130199524492644,
+            "roundaboutSegs": 32,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Санта Барбара (459)",
+          "variants": 1,
+          "tripCount": 105,
+          "stops": 39,
+          "lengthKm": 20.32,
+          "stats": {
+            "observations": 684,
+            "matched": 684,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1425796077788757,
+            "roundaboutSegs": 34,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "11"
+    },
+    {
+      "line": "А12",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Автостанція №2 (601)",
+          "variants": 1,
+          "tripCount": 87,
+          "stops": 25,
+          "lengthKm": 13.72,
+          "stats": {
+            "observations": 507,
+            "matched": 507,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.6363598121753891,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Рясне-2 (655)",
+          "variants": 1,
+          "tripCount": 87,
+          "stops": 26,
+          "lengthKm": 16.3,
+          "stats": {
+            "observations": 662,
+            "matched": 662,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.6330765992491396,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "12"
+    },
+    {
+      "line": "А14",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Антонича (354-01)",
+          "variants": 1,
+          "tripCount": 231,
+          "stops": 30,
+          "lengthKm": 14.77,
+          "stats": {
+            "observations": 508,
+            "matched": 508,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.2513510629922722,
+            "roundaboutSegs": 37,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Городоцька-Кільцева (109)",
+          "variants": 1,
+          "tripCount": 227,
+          "stops": 32,
+          "lengthKm": 20.14,
+          "stats": {
+            "observations": 648,
+            "matched": 648,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.2924226585379164,
+            "roundaboutSegs": 22,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "14"
+    },
+    {
+      "line": "А15",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Медової Печери (270)",
+          "variants": 1,
+          "tripCount": 89,
+          "stops": 25,
+          "lengthKm": 11.29,
+          "stats": {
+            "observations": 473,
+            "matched": 473,
+            "noCandidates": 0,
+            "viterbiBreaks": 1,
+            "bridged": 0,
+            "rawStretchCount": 1,
+            "rawMeters": 20,
+            "meanError": 1.26531013369464,
+            "roundaboutSegs": 27,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Приміський вокзал (111)",
+          "variants": 1,
+          "tripCount": 90,
+          "stops": 19,
+          "lengthKm": 8.03,
+          "stats": {
+            "observations": 303,
+            "matched": 303,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1000065076592227,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "15"
+    },
+    {
+      "line": "А16",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Залізничний вокзал (191)",
+          "variants": 1,
+          "tripCount": 191,
+          "stops": 31,
+          "lengthKm": 14.62,
+          "stats": {
+            "observations": 549,
+            "matched": 549,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.7315482912183848,
+            "roundaboutSegs": 34,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Кавалерідзе (426)",
+          "variants": 2,
+          "tripCount": 75,
+          "stops": 30,
+          "lengthKm": 14.22,
+          "stats": {
+            "observations": 597,
+            "matched": 597,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.7892596158039616,
+            "roundaboutSegs": 23,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "16"
+    },
+    {
+      "line": "А17",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Данила Апостола (832)",
+          "variants": 2,
+          "tripCount": 59,
+          "stops": 34,
+          "lengthKm": 16.07,
+          "stats": {
+            "observations": 595,
+            "matched": 595,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.6000256277273248,
+            "roundaboutSegs": 12,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Леннона (619)",
+          "variants": 2,
+          "tripCount": 64,
+          "stops": 35,
+          "lengthKm": 16.82,
+          "stats": {
+            "observations": 677,
+            "matched": 677,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.6277003950433733,
+            "roundaboutSegs": 12,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "17"
+    },
+    {
+      "line": "А18",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Провесінь (209)",
+          "variants": 1,
+          "tripCount": 150,
+          "stops": 35,
+          "lengthKm": 18.67,
+          "stats": {
+            "observations": 745,
+            "matched": 745,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.6605796383762279,
+            "roundaboutSegs": 18,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Суботівська (177)",
+          "variants": 1,
+          "tripCount": 150,
+          "stops": 37,
+          "lengthKm": 30.33,
+          "stats": {
+            "observations": 1135,
+            "matched": 1135,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.7431468880356531,
+            "roundaboutSegs": 54,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "18"
+    },
+    {
+      "line": "А19",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Леннона (619)",
+          "variants": 1,
+          "tripCount": 63,
+          "stops": 34,
+          "lengthKm": 20.21,
+          "stats": {
+            "observations": 737,
+            "matched": 737,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0440308673107943,
+            "roundaboutSegs": 58,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Антонича (354)",
+          "variants": 1,
+          "tripCount": 63,
+          "stops": 37,
+          "lengthKm": 20.77,
+          "stats": {
+            "observations": 810,
+            "matched": 810,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.9611608634725654,
+            "roundaboutSegs": 49,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "19"
+    },
+    {
+      "line": "А20",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Польова, Завод (289)",
+          "variants": 1,
+          "tripCount": 97,
+          "stops": 25,
+          "lengthKm": 10.89,
+          "stats": {
+            "observations": 460,
+            "matched": 460,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.7035774672506379,
+            "roundaboutSegs": 11,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Суботівська (177)",
+          "variants": 1,
+          "tripCount": 94,
+          "stops": 29,
+          "lengthKm": 14.64,
+          "stats": {
+            "observations": 631,
+            "matched": 631,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.8285511885275133,
+            "roundaboutSegs": 38,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "20"
+    },
+    {
+      "line": "А21",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Щепова (865)",
+          "variants": 1,
+          "tripCount": 111,
+          "stops": 34,
+          "lengthKm": 17.96,
+          "stats": {
+            "observations": 617,
+            "matched": 617,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1016256867838758,
+            "roundaboutSegs": 73,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Три слони (314)",
+          "variants": 1,
+          "tripCount": 111,
+          "stops": 33,
+          "lengthKm": 17.37,
+          "stats": {
+            "observations": 583,
+            "matched": 583,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0896021925744248,
+            "roundaboutSegs": 37,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "21"
+    },
+    {
+      "line": "А22",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Брюховичі, під Осовою (1090)",
+          "variants": 1,
+          "tripCount": 27,
+          "stops": 21,
+          "lengthKm": 15.7,
+          "stats": {
+            "observations": 654,
+            "matched": 654,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.5164627502916567,
+            "roundaboutSegs": 12,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Зернова (26)",
+          "variants": 1,
+          "tripCount": 26,
+          "stops": 21,
+          "lengthKm": 15.38,
+          "stats": {
+            "observations": 643,
+            "matched": 643,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.5082648119399132,
+            "roundaboutSegs": 12,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "22"
+    },
+    {
+      "line": "А23",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Провесінь (209)",
+          "variants": 1,
+          "tripCount": 127,
+          "stops": 46,
+          "lengthKm": 26.6,
+          "stats": {
+            "observations": 1022,
+            "matched": 1022,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.743723480588364,
+            "roundaboutSegs": 99,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Суботівська (177)",
+          "variants": 2,
+          "tripCount": 77,
+          "stops": 51,
+          "lengthKm": 30.68,
+          "stats": {
+            "observations": 1206,
+            "matched": 1206,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.6447464417074772,
+            "roundaboutSegs": 102,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "23"
+    },
+    {
+      "line": "А25",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Старе Знесіння (300)",
+          "variants": 1,
+          "tripCount": 116,
+          "stops": 46,
+          "lengthKm": 20.91,
+          "stats": {
+            "observations": 777,
+            "matched": 777,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1832409480788444,
+            "roundaboutSegs": 18,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "ТРЦ Кінг Кросс (320)",
+          "variants": 1,
+          "tripCount": 116,
+          "stops": 49,
+          "lengthKm": 21.09,
+          "stats": {
+            "observations": 835,
+            "matched": 835,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1790784810796417,
+            "roundaboutSegs": 62,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "25"
+    },
+    {
+      "line": "А27",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Автостанція №6 (256)",
+          "variants": 1,
+          "tripCount": 53,
+          "stops": 37,
+          "lengthKm": 17.61,
+          "stats": {
+            "observations": 626,
+            "matched": 626,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.9225365016635482,
+            "roundaboutSegs": 45,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Станція Скнилів (85)",
+          "variants": 2,
+          "tripCount": 33,
+          "stops": 39,
+          "lengthKm": 18.66,
+          "stats": {
+            "observations": 679,
+            "matched": 679,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.8162173419380293,
+            "roundaboutSegs": 51,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "27"
+    },
+    {
+      "line": "А29",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Винники, Винниченка (1023)",
+          "variants": 2,
+          "tripCount": 53,
+          "stops": 29,
+          "lengthKm": 13.36,
+          "stats": {
+            "observations": 617,
+            "matched": 617,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.5904573588294149,
+            "roundaboutSegs": 10,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Залізничний вокзал (191)",
+          "variants": 2,
+          "tripCount": 54,
+          "stops": 30,
+          "lengthKm": 12.84,
+          "stats": {
+            "observations": 594,
+            "matched": 594,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.623838054661318,
+            "roundaboutSegs": 11,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "29"
+    },
+    {
+      "line": "А31",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Галицьке перехрестя (741)",
+          "variants": 1,
+          "tripCount": 144,
+          "stops": 20,
+          "lengthKm": 9.26,
+          "stats": {
+            "observations": 332,
+            "matched": 332,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.4639272182392569,
+            "roundaboutSegs": 22,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Залізничний вокзал (191)",
+          "variants": 2,
+          "tripCount": 54,
+          "stops": 22,
+          "lengthKm": 9.14,
+          "stats": {
+            "observations": 302,
+            "matched": 302,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.6941165439133663,
+            "roundaboutSegs": 23,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "31"
+    },
+    {
+      "line": "А32",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Залізничний вокзал (191)",
+          "variants": 1,
+          "tripCount": 66,
+          "stops": 31,
+          "lengthKm": 14.19,
+          "stats": {
+            "observations": 478,
+            "matched": 478,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.9741910518145399,
+            "roundaboutSegs": 26,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Санта Барбара (459)",
+          "variants": 1,
+          "tripCount": 65,
+          "stops": 30,
+          "lengthKm": 13.46,
+          "stats": {
+            "observations": 460,
+            "matched": 460,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.9003111201530323,
+            "roundaboutSegs": 16,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "32"
+    },
+    {
+      "line": "А33",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Пулюя (507)",
+          "variants": 1,
+          "tripCount": 95,
+          "stops": 19,
+          "lengthKm": 9.23,
+          "stats": {
+            "observations": 396,
+            "matched": 396,
+            "noCandidates": 0,
+            "viterbiBreaks": 1,
+            "bridged": 0,
+            "rawStretchCount": 1,
+            "rawMeters": 20,
+            "meanError": 0.750056870381885,
+            "roundaboutSegs": 60,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Січових Стрільців (71)",
+          "variants": 1,
+          "tripCount": 100,
+          "stops": 21,
+          "lengthKm": 8.59,
+          "stats": {
+            "observations": 354,
+            "matched": 354,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.5133320656810405,
+            "roundaboutSegs": 37,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "33"
+    },
+    {
+      "line": "А34",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Чигиринська (575)",
+          "variants": 1,
+          "tripCount": 172,
+          "stops": 27,
+          "lengthKm": 13.55,
+          "stats": {
+            "observations": 554,
+            "matched": 554,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.8560513872751966,
+            "roundaboutSegs": 30,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Білогорща (90)",
+          "variants": 1,
+          "tripCount": 172,
+          "stops": 34,
+          "lengthKm": 17.21,
+          "stats": {
+            "observations": 661,
+            "matched": 661,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.9108570857822056,
+            "roundaboutSegs": 16,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "34"
+    },
+    {
+      "line": "А37",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Хоткевича (310)",
+          "variants": 1,
+          "tripCount": 106,
+          "stops": 31,
+          "lengthKm": 25.1,
+          "stats": {
+            "observations": 1171,
+            "matched": 1171,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.5625581485752829,
+            "roundaboutSegs": 60,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Під Голоском (668)",
+          "variants": 1,
+          "tripCount": 106,
+          "stops": 33,
+          "lengthKm": 44.71,
+          "stats": {
+            "observations": 2044,
+            "matched": 2044,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.595167241498357,
+            "roundaboutSegs": 121,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "37"
+    },
+    {
+      "line": "А39",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Грінченка (639)",
+          "variants": 2,
+          "tripCount": 22,
+          "stops": 27,
+          "lengthKm": 14.23,
+          "stats": {
+            "observations": 603,
+            "matched": 603,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0436332036473646,
+            "roundaboutSegs": 28,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Авторинок (199)",
+          "variants": 2,
+          "tripCount": 23,
+          "stops": 28,
+          "lengthKm": 19.24,
+          "stats": {
+            "observations": 776,
+            "matched": 776,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.2456051577634868,
+            "roundaboutSegs": 69,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "39"
+    },
+    {
+      "line": "А39а",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Авторинок (199)",
+          "variants": 1,
+          "tripCount": 18,
+          "stops": 13,
+          "lengthKm": 5.7,
+          "stats": {
+            "observations": 269,
+            "matched": 269,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.6635887704329514,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Площа Галицька (10)",
+          "variants": 1,
+          "tripCount": 18,
+          "stops": 13,
+          "lengthKm": 7.82,
+          "stats": {
+            "observations": 331,
+            "matched": 331,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.7068854608770117,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "39а"
+    },
+    {
+      "line": "А40",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Винники, Лисика (1016)",
+          "variants": 2,
+          "tripCount": 51,
+          "stops": 40,
+          "lengthKm": 21.66,
+          "stats": {
+            "observations": 830,
+            "matched": 830,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.9513433555404517,
+            "roundaboutSegs": 47,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "ТРЦ Кінг Кросс (320)",
+          "variants": 2,
+          "tripCount": 51,
+          "stops": 43,
+          "lengthKm": 24.97,
+          "stats": {
+            "observations": 989,
+            "matched": 989,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0068832347092613,
+            "roundaboutSegs": 72,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "40"
+    },
+    {
+      "line": "А41",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Галицьке перехрестя (741)",
+          "variants": 1,
+          "tripCount": 99,
+          "stops": 42,
+          "lengthKm": 19.54,
+          "stats": {
+            "observations": 703,
+            "matched": 703,
+            "noCandidates": 0,
+            "viterbiBreaks": 1,
+            "bridged": 0,
+            "rawStretchCount": 1,
+            "rawMeters": 20,
+            "meanError": 0.4963313694392695,
+            "roundaboutSegs": 20,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Кавалерідзе (426)",
+          "variants": 2,
+          "tripCount": 66,
+          "stops": 45,
+          "lengthKm": 19.4,
+          "stats": {
+            "observations": 704,
+            "matched": 704,
+            "noCandidates": 0,
+            "viterbiBreaks": 1,
+            "bridged": 0,
+            "rawStretchCount": 1,
+            "rawMeters": 20,
+            "meanError": 0.6385027735397742,
+            "roundaboutSegs": 22,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "41"
+    },
+    {
+      "line": "А43",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Лікарня Святого Луки (367)",
+          "variants": 2,
+          "tripCount": 75,
+          "stops": 26,
+          "lengthKm": 11.23,
+          "stats": {
+            "observations": 491,
+            "matched": 491,
+            "noCandidates": 0,
+            "viterbiBreaks": 1,
+            "bridged": 0,
+            "rawStretchCount": 1,
+            "rawMeters": 20,
+            "meanError": 1.283029621035625,
+            "roundaboutSegs": 2,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Суботівська (177)",
+          "variants": 2,
+          "tripCount": 70,
+          "stops": 26,
+          "lengthKm": 11.51,
+          "stats": {
+            "observations": 520,
+            "matched": 520,
+            "noCandidates": 0,
+            "viterbiBreaks": 1,
+            "bridged": 0,
+            "rawStretchCount": 1,
+            "rawMeters": 20,
+            "meanError": 0.8101009909094444,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "43"
+    },
+    {
+      "line": "А45",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Барвінських (854)",
+          "variants": 1,
+          "tripCount": 70,
+          "stops": 18,
+          "lengthKm": 8.71,
+          "stats": {
+            "observations": 398,
+            "matched": 398,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.4484500643652842,
+            "roundaboutSegs": 15,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Вікторія Гарденс (547)",
+          "variants": 2,
+          "tripCount": 65,
+          "stops": 15,
+          "lengthKm": 8.57,
+          "stats": {
+            "observations": 415,
+            "matched": 415,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.3759372801207177,
+            "roundaboutSegs": 10,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "45"
+    },
+    {
+      "line": "А46",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Голосківський цвинтар (819)",
+          "variants": 1,
+          "tripCount": 247,
+          "stops": 37,
+          "lengthKm": 17.46,
+          "stats": {
+            "observations": 760,
+            "matched": 760,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.5911047654317464,
+            "roundaboutSegs": 57,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Санта Барбара (459)",
+          "variants": 1,
+          "tripCount": 250,
+          "stops": 39,
+          "lengthKm": 17.33,
+          "stats": {
+            "observations": 720,
+            "matched": 720,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.5825921543308071,
+            "roundaboutSegs": 28,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "46"
+    },
+    {
+      "line": "А47",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Рясне-2 (655)",
+          "variants": 1,
+          "tripCount": 226,
+          "stops": 51,
+          "lengthKm": 24.05,
+          "stats": {
+            "observations": 983,
+            "matched": 983,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.6492649411396373,
+            "roundaboutSegs": 59,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Санта Барбара (459)",
+          "variants": 1,
+          "tripCount": 233,
+          "stops": 53,
+          "lengthKm": 30.4,
+          "stats": {
+            "observations": 1218,
+            "matched": 1218,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.6271260551801707,
+            "roundaboutSegs": 92,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "47"
+    },
+    {
+      "line": "А48",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Ряшівська (169)",
+          "variants": 1,
+          "tripCount": 190,
+          "stops": 33,
+          "lengthKm": 14.3,
+          "stats": {
+            "observations": 515,
+            "matched": 515,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.45041213353365617,
+            "roundaboutSegs": 23,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Галицьке перехрестя (741)",
+          "variants": 1,
+          "tripCount": 181,
+          "stops": 28,
+          "lengthKm": 13.52,
+          "stats": {
+            "observations": 509,
+            "matched": 509,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.4418002871460991,
+            "roundaboutSegs": 41,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "48"
+    },
+    {
+      "line": "А49",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Залізничний вокзал (191)",
+          "variants": 1,
+          "tripCount": 62,
+          "stops": 22,
+          "lengthKm": 11.07,
+          "stats": {
+            "observations": 415,
+            "matched": 415,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.162547746646397,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Рясне-2 (655)",
+          "variants": 1,
+          "tripCount": 61,
+          "stops": 23,
+          "lengthKm": 11.52,
+          "stats": {
+            "observations": 486,
+            "matched": 486,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1158497918631434,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "49"
+    },
+    {
+      "line": "А51",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Галицьке перехрестя (741)",
+          "variants": 2,
+          "tripCount": 187,
+          "stops": 39,
+          "lengthKm": 26.17,
+          "stats": {
+            "observations": 902,
+            "matched": 902,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.538027350994161,
+            "roundaboutSegs": 97,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Вікторія Гарденс (547)",
+          "variants": 1,
+          "tripCount": 180,
+          "stops": 41,
+          "lengthKm": 21.65,
+          "stats": {
+            "observations": 811,
+            "matched": 811,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.47587688743198975,
+            "roundaboutSegs": 35,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "51"
+    },
+    {
+      "line": "А52",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Варшавська (612)",
+          "variants": 2,
+          "tripCount": 67,
+          "stops": 39,
+          "lengthKm": 18.74,
+          "stats": {
+            "observations": 642,
+            "matched": 642,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0402562948302585,
+            "roundaboutSegs": 47,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Рудно. Семінарія (1129)",
+          "variants": 2,
+          "tripCount": 69,
+          "stops": 34,
+          "lengthKm": 16.61,
+          "stats": {
+            "observations": 479,
+            "matched": 479,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.7855276359238849,
+            "roundaboutSegs": 26,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "52"
+    },
+    {
+      "line": "А53",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Галицьке перехрестя (741)",
+          "variants": 1,
+          "tripCount": 243,
+          "stops": 31,
+          "lengthKm": 14.65,
+          "stats": {
+            "observations": 619,
+            "matched": 619,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.48833098181513895,
+            "roundaboutSegs": 20,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Санта Барбара (459)",
+          "variants": 2,
+          "tripCount": 180,
+          "stops": 32,
+          "lengthKm": 13.86,
+          "stats": {
+            "observations": 580,
+            "matched": 580,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.49529489560955364,
+            "roundaboutSegs": 29,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "53"
+    },
+    {
+      "line": "А55",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Площа Різні (62)",
+          "variants": 1,
+          "tripCount": 20,
+          "stops": 19,
+          "lengthKm": 11.25,
+          "stats": {
+            "observations": 406,
+            "matched": 406,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.8853475603887846,
+            "roundaboutSegs": 12,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Збиранка. Центр (1442)",
+          "variants": 1,
+          "tripCount": 19,
+          "stops": 18,
+          "lengthKm": 11.59,
+          "stats": {
+            "observations": 430,
+            "matched": 430,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.98446234980628,
+            "roundaboutSegs": 12,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "55"
+    },
+    {
+      "line": "А56",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Дубляни, Центр (1311)",
+          "variants": 1,
+          "tripCount": 14,
+          "stops": 21,
+          "lengthKm": 14.65,
+          "stats": {
+            "observations": 414,
+            "matched": 414,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.7516889611641459,
+            "roundaboutSegs": 12,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Площа 700-річчя Львова (56)",
+          "variants": 1,
+          "tripCount": 13,
+          "stops": 23,
+          "lengthKm": 14.78,
+          "stats": {
+            "observations": 395,
+            "matched": 395,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.71046001001068,
+            "roundaboutSegs": 12,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "56"
+    },
+    {
+      "line": "А57",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Максимовича (417)",
+          "variants": 1,
+          "tripCount": 48,
+          "stops": 12,
+          "lengthKm": 6.37,
+          "stats": {
+            "observations": 221,
+            "matched": 221,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.2360588466333302,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Площа Різні (62)",
+          "variants": 1,
+          "tripCount": 48,
+          "stops": 13,
+          "lengthKm": 7.12,
+          "stats": {
+            "observations": 218,
+            "matched": 218,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.8435964584936447,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "57"
+    },
+    {
+      "line": "А58",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Завадів, Народний дім (1258)",
+          "variants": 1,
+          "tripCount": 11,
+          "stops": 27,
+          "lengthKm": 21.45,
+          "stats": {
+            "observations": 647,
+            "matched": 647,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.4610738412085311,
+            "roundaboutSegs": 27,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Ветеранів (727)",
+          "variants": 1,
+          "tripCount": 12,
+          "stops": 31,
+          "lengthKm": 43.97,
+          "stats": {
+            "observations": 1026,
+            "matched": 1026,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.638327101625425,
+            "roundaboutSegs": 29,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "58"
+    },
+    {
+      "line": "А59",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Зарудці, Церква (1276)",
+          "variants": 1,
+          "tripCount": 16,
+          "stops": 27,
+          "lengthKm": 23.02,
+          "stats": {
+            "observations": 642,
+            "matched": 642,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0266339492657082,
+            "roundaboutSegs": 27,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Ветеранів (727)",
+          "variants": 1,
+          "tripCount": 16,
+          "stops": 27,
+          "lengthKm": 28.45,
+          "stats": {
+            "observations": 624,
+            "matched": 624,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.307778264684021,
+            "roundaboutSegs": 29,
+            "extStart": 1076,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "59"
+    },
+    {
+      "line": "А60",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Площа Різні (62)",
+          "variants": 1,
+          "tripCount": 7,
+          "stops": 18,
+          "lengthKm": 19.07,
+          "stats": {
+            "observations": 564,
+            "matched": 564,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0227392225926426,
+            "roundaboutSegs": 24,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Ситихів. Народний дім (1351)",
+          "variants": 1,
+          "tripCount": 7,
+          "stops": 19,
+          "lengthKm": 18.78,
+          "stats": {
+            "observations": 528,
+            "matched": 528,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.9369116529761199,
+            "roundaboutSegs": 15,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "60"
+    },
+    {
+      "line": "А61",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Підбірці, Народний дім (1390)",
+          "variants": 1,
+          "tripCount": 79,
+          "stops": 43,
+          "lengthKm": 23.33,
+          "stats": {
+            "observations": 926,
+            "matched": 926,
+            "noCandidates": 0,
+            "viterbiBreaks": 1,
+            "bridged": 0,
+            "rawStretchCount": 1,
+            "rawMeters": 20,
+            "meanError": 1.077665281832646,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Підрясне. Смерекова (1424)",
+          "variants": 2,
+          "tripCount": 30,
+          "stops": 43,
+          "lengthKm": 22.78,
+          "stats": {
+            "observations": 956,
+            "matched": 956,
+            "noCandidates": 0,
+            "viterbiBreaks": 3,
+            "bridged": 0,
+            "rawStretchCount": 3,
+            "rawMeters": 60,
+            "meanError": 1.1044920881631555,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "61"
+    },
+    {
+      "line": "А62",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Малі Грибовичі, Центр (1294)",
+          "variants": 1,
+          "tripCount": 12,
+          "stops": 17,
+          "lengthKm": 11.45,
+          "stats": {
+            "observations": 358,
+            "matched": 358,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.9827820397883031,
+            "roundaboutSegs": 17,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Залізничний вокзал Підзамче (312)",
+          "variants": 2,
+          "tripCount": 8,
+          "stops": 17,
+          "lengthKm": 15.32,
+          "stats": {
+            "observations": 465,
+            "matched": 465,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8210987660512687,
+            "roundaboutSegs": 34,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "62"
+    },
+    {
+      "line": "А63",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Воля Гамулецька, Центр (1326)",
+          "variants": 1,
+          "tripCount": 10,
+          "stops": 20,
+          "lengthKm": 15.93,
+          "stats": {
+            "observations": 523,
+            "matched": 523,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.48560151976387134,
+            "roundaboutSegs": 17,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Ветеранів (727)",
+          "variants": 3,
+          "tripCount": 8,
+          "stops": 25,
+          "lengthKm": 18.2,
+          "stats": {
+            "observations": 510,
+            "matched": 510,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.4863647050507661,
+            "roundaboutSegs": 29,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "63"
+    },
+    {
+      "line": "А67",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Брюховичі, Центр святого Миколая (1079)",
+          "variants": 1,
+          "tripCount": 45,
+          "stops": 23,
+          "lengthKm": 17.21,
+          "stats": {
+            "observations": 761,
+            "matched": 761,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.611068407497754,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Магнус (82)",
+          "variants": 1,
+          "tripCount": 45,
+          "stops": 23,
+          "lengthKm": 18.55,
+          "stats": {
+            "observations": 811,
+            "matched": 811,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.5591564193486195,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "67"
+    },
+    {
+      "line": "А80",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Великі Грибовичі, Садова (1172)",
+          "variants": 1,
+          "tripCount": 9,
+          "stops": 27,
+          "lengthKm": 12.16,
+          "stats": {
+            "observations": 512,
+            "matched": 512,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.4124167817052318,
+            "roundaboutSegs": 28,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Площа Різні (62)",
+          "variants": 1,
+          "tripCount": 9,
+          "stops": 27,
+          "lengthKm": 12.98,
+          "stats": {
+            "observations": 521,
+            "matched": 521,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.563656444027427,
+            "roundaboutSegs": 51,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "80"
+    },
+    {
+      "line": "А84",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Леннона (619)",
+          "variants": 2,
+          "tripCount": 171,
+          "stops": 38,
+          "lengthKm": 20.7,
+          "stats": {
+            "observations": 709,
+            "matched": 709,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.5556138293273961,
+            "roundaboutSegs": 35,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Рудно. Семінарія (1129)",
+          "variants": 3,
+          "tripCount": 171,
+          "stops": 41,
+          "lengthKm": 22.81,
+          "stats": {
+            "observations": 763,
+            "matched": 763,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.592637665265716,
+            "roundaboutSegs": 17,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "84"
+    },
+    {
+      "line": "А92",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Вашингтона (365)",
+          "variants": 1,
+          "tripCount": 133,
+          "stops": 36,
+          "lengthKm": 16.86,
+          "stats": {
+            "observations": 684,
+            "matched": 684,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.5730188518817998,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Городоцька-Кільцева (109)",
+          "variants": 2,
+          "tripCount": 74,
+          "stops": 39,
+          "lengthKm": 17.86,
+          "stats": {
+            "observations": 666,
+            "matched": 666,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.5737560383397768,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "92"
+    },
+    {
+      "line": "А99",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Музей народної архітектури (857)",
+          "variants": 1,
+          "tripCount": 9,
+          "stops": 6,
+          "lengthKm": 2.52,
+          "stats": {
+            "observations": 127,
+            "matched": 127,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.7880368498902298,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Площа Галицька (10)",
+          "variants": 1,
+          "tripCount": 9,
+          "stops": 6,
+          "lengthKm": 2.62,
+          "stats": {
+            "observations": 132,
+            "matched": 132,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.6274595657907855,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "99"
+    },
+    {
+      "line": "Тр22",
+      "mode": "bus",
+      "color": "#149a3f",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Автовокзал (433)",
+          "variants": 1,
+          "tripCount": 154,
+          "stops": 23,
+          "lengthKm": 11.22,
+          "stats": {
+            "observations": 387,
+            "matched": 387,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.49822697917641884,
+            "roundaboutSegs": 27,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Університет (78)",
+          "variants": 1,
+          "tripCount": 152,
+          "stops": 21,
+          "lengthKm": 9.96,
+          "stats": {
+            "observations": 320,
+            "matched": 320,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.4194559761483803,
+            "roundaboutSegs": 7,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "22"
+    },
+    {
+      "line": "Тр23",
+      "mode": "bus",
+      "color": "#149a3f",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Ряшівська (169)",
+          "variants": 1,
+          "tripCount": 109,
+          "stops": 20,
+          "lengthKm": 12.32,
+          "stats": {
+            "observations": 333,
+            "matched": 333,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.785175401141239,
+            "roundaboutSegs": 54,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Автовокзал (433)",
+          "variants": 1,
+          "tripCount": 116,
+          "stops": 19,
+          "lengthKm": 22.69,
+          "stats": {
+            "observations": 613,
+            "matched": 613,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.6298948677647346,
+            "roundaboutSegs": 34,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "23"
+    },
+    {
+      "line": "Тр24",
+      "mode": "bus",
+      "color": "#149a3f",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Санта Барбара (457)",
+          "variants": 1,
+          "tripCount": 120,
+          "stops": 18,
+          "lengthKm": 8,
+          "stats": {
+            "observations": 340,
+            "matched": 340,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.121688238525442,
+            "roundaboutSegs": 16,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Шота Руставелі (291)",
+          "variants": 1,
+          "tripCount": 120,
+          "stops": 16,
+          "lengthKm": 7.79,
+          "stats": {
+            "observations": 325,
+            "matched": 325,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1329189800114188,
+            "roundaboutSegs": 28,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "24"
+    },
+    {
+      "line": "Тр25",
+      "mode": "bus",
+      "color": "#149a3f",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Автовокзал (433)",
+          "variants": 1,
+          "tripCount": 142,
+          "stops": 11,
+          "lengthKm": 6.73,
+          "stats": {
+            "observations": 185,
+            "matched": 185,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.36451326188313826,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Шота Руставелі (291)",
+          "variants": 1,
+          "tripCount": 142,
+          "stops": 12,
+          "lengthKm": 6.44,
+          "stats": {
+            "observations": 196,
+            "matched": 196,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.47591249912022593,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "25"
+    },
+    {
+      "line": "Тр27",
+      "mode": "bus",
+      "color": "#149a3f",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Станція Скнилів (85)",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 14,
+          "lengthKm": 7.03,
+          "stats": {
+            "observations": 234,
+            "matched": 234,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1306322129018458,
+            "roundaboutSegs": 4,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Університет (78)",
+          "variants": 2,
+          "tripCount": 4,
+          "stops": 16,
+          "lengthKm": 7.25,
+          "stats": {
+            "observations": 261,
+            "matched": 261,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.9566488341522762,
+            "roundaboutSegs": 21,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "27"
+    },
+    {
+      "line": "Тр30",
+      "mode": "bus",
+      "color": "#149a3f",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Ряшівська (169)",
+          "variants": 1,
+          "tripCount": 168,
+          "stops": 15,
+          "lengthKm": 6.87,
+          "stats": {
+            "observations": 331,
+            "matched": 331,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.44858694645752306,
+            "roundaboutSegs": 4,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Університет (78)",
+          "variants": 1,
+          "tripCount": 164,
+          "stops": 15,
+          "lengthKm": 6.41,
+          "stats": {
+            "observations": 259,
+            "matched": 259,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.4388010612429421,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "30"
+    },
+    {
+      "line": "Тр31",
+      "mode": "bus",
+      "color": "#149a3f",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Центр легеневого здоров’я (353)",
+          "variants": 1,
+          "tripCount": 49,
+          "stops": 19,
+          "lengthKm": 12.21,
+          "stats": {
+            "observations": 554,
+            "matched": 554,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1121429826099833,
+            "roundaboutSegs": 16,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Шота Руставелі (291)",
+          "variants": 1,
+          "tripCount": 49,
+          "stops": 17,
+          "lengthKm": 9.48,
+          "stats": {
+            "observations": 391,
+            "matched": 391,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.531192816965679,
+            "roundaboutSegs": 66,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "31"
+    },
+    {
+      "line": "Тр32",
+      "mode": "bus",
+      "color": "#149a3f",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Суботівська (177)",
+          "variants": 1,
+          "tripCount": 176,
+          "stops": 13,
+          "lengthKm": 6.23,
+          "stats": {
+            "observations": 313,
+            "matched": 313,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.8345579395456042,
+            "roundaboutSegs": 4,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Університет (78)",
+          "variants": 1,
+          "tripCount": 171,
+          "stops": 15,
+          "lengthKm": 6.38,
+          "stats": {
+            "observations": 278,
+            "matched": 278,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.796539635880153,
+            "roundaboutSegs": 1,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "32"
+    },
+    {
+      "line": "Тр38",
+      "mode": "bus",
+      "color": "#149a3f",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Площа Кропивницького (46)",
+          "variants": 1,
+          "tripCount": 113,
+          "stops": 20,
+          "lengthKm": 9.06,
+          "stats": {
+            "observations": 273,
+            "matched": 273,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.366201103088112,
+            "roundaboutSegs": 11,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Хуторівка (427)",
+          "variants": 1,
+          "tripCount": 119,
+          "stops": 19,
+          "lengthKm": 9.24,
+          "stats": {
+            "observations": 297,
+            "matched": 297,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.1281144486005772,
+            "roundaboutSegs": 29,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "38"
+    },
+    {
+      "line": "Т01",
+      "mode": "tram",
+      "color": "#556B2F",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Погулянка (197)",
+          "variants": 1,
+          "tripCount": 125,
+          "stops": 18,
+          "lengthKm": 6.71,
+          "stats": {
+            "observations": 335,
+            "matched": 335,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9035621564094702,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Залізничний вокзал (118)",
+          "variants": 1,
+          "tripCount": 128,
+          "stops": 16,
+          "lengthKm": 7.02,
+          "stats": {
+            "observations": 338,
+            "matched": 338,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.973884319119526,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "1"
+    },
+    {
+      "line": "Т02",
+      "mode": "tram",
+      "color": "#556B2F",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Пасічна (286)",
+          "variants": 1,
+          "tripCount": 190,
+          "stops": 17,
+          "lengthKm": 6.82,
+          "stats": {
+            "observations": 325,
+            "matched": 325,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.4781367168398085,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Коновальця. музей Труша (504)",
+          "variants": 1,
+          "tripCount": 183,
+          "stops": 16,
+          "lengthKm": 6.83,
+          "stats": {
+            "observations": 314,
+            "matched": 314,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.102994334942233,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "2"
+    },
+    {
+      "line": "Т03",
+      "mode": "tram",
+      "color": "#FFFFFF",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Аквапарк (519)",
+          "variants": 2,
+          "tripCount": 226,
+          "stops": 11,
+          "lengthKm": 5.18,
+          "stats": {
+            "observations": 246,
+            "matched": 246,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.4348213433048524,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Соборна (74)",
+          "variants": 2,
+          "tripCount": 226,
+          "stops": 11,
+          "lengthKm": 5.33,
+          "stats": {
+            "observations": 253,
+            "matched": 253,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.336919266863972,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "3"
+    },
+    {
+      "line": "Т04",
+      "mode": "tram",
+      "color": "#556B2F",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Вернадського (785)",
+          "variants": 2,
+          "tripCount": 165,
+          "stops": 19,
+          "lengthKm": 8.98,
+          "stats": {
+            "observations": 419,
+            "matched": 419,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6779024591821197,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Залізничний вокзал (118)",
+          "variants": 1,
+          "tripCount": 168,
+          "stops": 19,
+          "lengthKm": 9.24,
+          "stats": {
+            "observations": 388,
+            "matched": 388,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.5708989828490274,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "4"
+    },
+    {
+      "line": "Т06",
+      "mode": "tram",
+      "color": "#FFFFFF",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Миколайчука (661)",
+          "variants": 1,
+          "tripCount": 182,
+          "stops": 15,
+          "lengthKm": 6.06,
+          "stats": {
+            "observations": 261,
+            "matched": 261,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.5557682917923408,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Залізничний вокзал (118)",
+          "variants": 1,
+          "tripCount": 171,
+          "stops": 17,
+          "lengthKm": 6.58,
+          "stats": {
+            "observations": 291,
+            "matched": 291,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6239208666424292,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "6"
+    },
+    {
+      "line": "Т07",
+      "mode": "tram",
+      "color": "#556B2F",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Погулянка (197)",
+          "variants": 2,
+          "tripCount": 137,
+          "stops": 19,
+          "lengthKm": 7.66,
+          "stats": {
+            "observations": 361,
+            "matched": 361,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.870411722315385,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Отця Омеляна Ковча (703)",
+          "variants": 1,
+          "tripCount": 137,
+          "stops": 17,
+          "lengthKm": 7.45,
+          "stats": {
+            "observations": 352,
+            "matched": 352,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7727514205670762,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "7"
+    },
+    {
+      "line": "Т08",
+      "mode": "tram",
+      "color": "#FFFFFF",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Вернадського (785)",
+          "variants": 2,
+          "tripCount": 271,
+          "stops": 15,
+          "lengthKm": 7,
+          "stats": {
+            "observations": 320,
+            "matched": 320,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.5343079848642716,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Соборна (74)",
+          "variants": 2,
+          "tripCount": 271,
+          "stops": 15,
+          "lengthKm": 7.18,
+          "stats": {
+            "observations": 296,
+            "matched": 296,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.4892619375435794,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "8"
+    },
+    {
+      "line": "Т09",
+      "mode": "tram",
+      "color": "#556B2F",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Торф’яна (704)",
+          "variants": 1,
+          "tripCount": 118,
+          "stops": 17,
+          "lengthKm": 7.07,
+          "stats": {
+            "observations": 349,
+            "matched": 349,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.5840460266902456,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Залізничний вокзал (118)",
+          "variants": 1,
+          "tripCount": 112,
+          "stops": 18,
+          "lengthKm": 7.16,
+          "stats": {
+            "observations": 344,
+            "matched": 344,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.4714913756985195,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "label": "9"
+    }
+  ]
+}
