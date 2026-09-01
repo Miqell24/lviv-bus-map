@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T14:52:56.945Z",
+  "generatedAt": "2026-09-01T11:54:12.407Z",
   "bbox": [
     23.860295,
     49.771929,
@@ -3244,7 +3244,7 @@
     {
       "line": "Т01",
       "mode": "tram",
-      "color": "#556B2F",
+      "color": "#d6212b",
       "dirs": [
         {
           "dir": "0",
@@ -3294,7 +3294,7 @@
     {
       "line": "Т02",
       "mode": "tram",
-      "color": "#556B2F",
+      "color": "#d6212b",
       "dirs": [
         {
           "dir": "0",
@@ -3344,7 +3344,7 @@
     {
       "line": "Т03",
       "mode": "tram",
-      "color": "#FFFFFF",
+      "color": "#d6212b",
       "dirs": [
         {
           "dir": "0",
@@ -3394,7 +3394,7 @@
     {
       "line": "Т04",
       "mode": "tram",
-      "color": "#556B2F",
+      "color": "#d6212b",
       "dirs": [
         {
           "dir": "0",
@@ -3444,7 +3444,7 @@
     {
       "line": "Т06",
       "mode": "tram",
-      "color": "#FFFFFF",
+      "color": "#d6212b",
       "dirs": [
         {
           "dir": "0",
@@ -3494,7 +3494,7 @@
     {
       "line": "Т07",
       "mode": "tram",
-      "color": "#556B2F",
+      "color": "#d6212b",
       "dirs": [
         {
           "dir": "0",
@@ -3544,7 +3544,7 @@
     {
       "line": "Т08",
       "mode": "tram",
-      "color": "#FFFFFF",
+      "color": "#d6212b",
       "dirs": [
         {
           "dir": "0",
@@ -3594,7 +3594,7 @@
     {
       "line": "Т09",
       "mode": "tram",
-      "color": "#556B2F",
+      "color": "#d6212b",
       "dirs": [
         {
           "dir": "0",
